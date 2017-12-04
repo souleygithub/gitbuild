@@ -6,6 +6,7 @@ public class PrintDemo {
 		
 		System.out.println("This is print demo 2");
 		System.out.println("Adding a second line");
+		System.out.println("adding third line");
 	}
 
 }
